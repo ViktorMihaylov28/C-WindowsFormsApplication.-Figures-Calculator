@@ -1,0 +1,22 @@
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.exe.config
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.exe
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.pdb
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.AssemblyReference.cache
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Form1.resources
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Properties.Resources.resources
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.GenerateResource.cache
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.CoreCompileInputs.cache
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.exe
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.pdb
+C:\Users\ВикторММихайлов\source\repos\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Form2.resources
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.exe.config
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.exe
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\bin\Debug\Calculator_Final.pdb
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Form1.resources
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Form2.resources
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.Properties.Resources.resources
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.exe
+C:\Users\HP\Desktop\MS VS 2019 PROEKTI\Calculator_Final\Calculator_Final\obj\Debug\Calculator_Final.pdb
